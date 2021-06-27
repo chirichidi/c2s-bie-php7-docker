@@ -1,4 +1,4 @@
-RUNTIME_TAG='bie/c2s-bie-php7-docker'
+RUNTIME_TAG='chirichidi/c2s-bie-php7-docker'
 
 build:
 	docker build . --tag ${RUNTIME_TAG}
